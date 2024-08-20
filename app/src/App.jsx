@@ -86,9 +86,9 @@ const App = () => {
       <Container>
         <TopContainer>
           <div className="logo">
-            <img src="/logo.svg" alt="logo" />
+            <img src="/Foody Zone.png" alt="logo" />
           </div>
-
+          s
           <div className="search">
             <input onChange={searchFood} placeholder="Search Food" />
           </div>
