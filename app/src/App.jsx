@@ -88,7 +88,6 @@ const App = () => {
           <div className="logo">
             <img src="/Foody Zone.png" alt="logo" />
           </div>
-          s
           <div className="search">
             <input onChange={searchFood} placeholder="Search Food" />
           </div>
@@ -118,7 +117,7 @@ export const Container = styled.div`
   margin: 0 auto;
 `;
 const TopContainer = styled.section`
-  height: 140px;
+  height: 103px;
   display: flex;
   justify-content: space-between;
   padding: 16px;
